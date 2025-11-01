@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Islam Waled
 
 ## 🌟 About Me
-I’m passionate about **Software Testing** and **Automation Engineering** — breaking things to make them better is my favorite superpower! 💥  
+I’m passionate about **Software Testing**  — breaking things to make them better is my favorite superpower! 💥  
 🌱 Currently exploring **API Testing** and **AI-driven QA** tools.  
 💡 I believe **Logic + Curiosity = The Perfect Tester!**  
 
