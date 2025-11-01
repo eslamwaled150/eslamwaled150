@@ -25,7 +25,6 @@ I’m passionate about **Software Testing**  — breaking things to make them be
 ![Python](https://img.shields.io/badge/-Python-yellow)
 ![Git](https://img.shields.io/badge/-Git-black)
 ![Jira](https://img.shields.io/badge/-Jira-blue)
-![Bugzilla](https://img.shields.io/badge/-Bugzilla-red)
 
 ---
 
