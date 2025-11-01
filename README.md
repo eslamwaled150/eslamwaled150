@@ -11,25 +11,21 @@ I’m passionate about **Software Testing** and **Automation Engineering** — b
 ---
 
 ## 🚀 Skills & Tools
-- **Testing & Automation:** Selenium, Postman, API Testing  
+- **Testing & Automation:** Selenium, Postman, API Testing, Exploratory Testing  
+- **Bug Tracking Systems:** Jira, Bugzilla  
 - **Programming Languages:** Python, Java, HTML  
-- **Tools & Workflow:** Git, Jira  
+- **Tools & Workflow:** Git, Test Case Design, Defect Reporting  
 - **Emerging Interests:** AI for QA, Test Automation Frameworks  
 
 ![Software Testing](https://img.shields.io/badge/-Software_Testing-orange)
+![Exploratory Testing](https://img.shields.io/badge/-Exploratory_Testing-lightgrey)
 ![Selenium](https://img.shields.io/badge/-Selenium-brightgreen)
 ![Postman](https://img.shields.io/badge/-Postman-orange)
 ![Java](https://img.shields.io/badge/-Java-blue)
 ![Python](https://img.shields.io/badge/-Python-yellow)
 ![Git](https://img.shields.io/badge/-Git-black)
 ![Jira](https://img.shields.io/badge/-Jira-blue)
-
----
-
-## 🔭 Current Focus
-- Building reliable API test suites using **Postman**  
-- Exploring **AI-driven test generation** and **flaky test detection**  
-- Enhancing **test reliability** and **CI pipeline integration**
+![Bugzilla](https://img.shields.io/badge/-Bugzilla-red)
 
 ---
 
