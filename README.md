@@ -26,6 +26,7 @@ I’m passionate about **Software Testing**  — breaking things to make them be
 ![Git](https://img.shields.io/badge/-Git-black)
 ![Jira](https://img.shields.io/badge/-Jira-blue)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC)
+![JMeter](https://img.shields.io/badge/-JMeter-D22128)
 
 ---
 
