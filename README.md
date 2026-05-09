@@ -22,7 +22,7 @@ I’m passionate about **Software Testing**  — breaking things to make them be
 ![Selenium](https://img.shields.io/badge/-Selenium-brightgreen)
 ![Postman](https://img.shields.io/badge/-Postman-orange)
 ![Java](https://img.shields.io/badge/-Java-blue)
-![Python](https://img.shields.io/badge/-Python-yellow)
+![Python](https://img.shields.io/badge/-C-yellow)
 ![Git](https://img.shields.io/badge/-Git-black)
 ![Jira](https://img.shields.io/badge/-Jira-blue)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC)
