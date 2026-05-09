@@ -12,8 +12,8 @@ I’m passionate about **Software Testing**  — breaking things to make them be
 
 ## 🚀 Skills & Tools
 - **Testing & Automation:** Selenium, Postman, API Testing, Exploratory Testing  
-- **Bug Tracking Systems:** Jira, Bugzilla  
-- **Programming Languages:** Python, Java, HTML  
+- **Bug Tracking & Project Management:** Jira, Trello  
+- **Programming Languages:** Java, C  
 - **Tools & Workflow:** Git, Test Case Design, Defect Reporting  
 - **Emerging Interests:** AI for QA, Test Automation Frameworks  
 
