@@ -6,7 +6,7 @@ I’m passionate about **Software Testing**  — breaking things to make them be
 💡 I believe **Logic + Curiosity = The Perfect Tester!**  
 
 📜 **ISTQB Foundation Level – Completed**  
-📱 Currently preparing for **Mobile Application Testing (ISTQB)** certification.
+📱 **ISTQB Certified Tester – Mobile Application Testing (CT-MAT) Completed** 
 
 ---
 
